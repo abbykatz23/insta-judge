@@ -1,0 +1,6 @@
+# local env files (secrets)
+.env*.local
+.env
+
+# deploy tool state
+.netlify/
